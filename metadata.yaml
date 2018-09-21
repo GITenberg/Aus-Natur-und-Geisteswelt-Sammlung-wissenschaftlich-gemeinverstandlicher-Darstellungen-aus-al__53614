@@ -1,0 +1,25 @@
+_repo: Aus-Natur-und-Geisteswelt-Sammlung-wissenschaftlich-gemeinverstandlicher-Darstellungen-aus-al__53614
+_version: 0.0.1
+creator:
+  author:
+    agent_name: B.G. Teubner (Firm)
+    alias: Teubner, B.G., firm, publishers
+    gutenberg_agent_id: '47455'
+    url: http://www.gutenberg.org/2009/agents/47455
+description: ''
+gutenberg_issued: '2016-11-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53614'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'B.G. Teubner (Firm) -- Catalogs'
+- !lcsh 'Booksellers'' catalogs -- Germany'
+- !lcc 'Z'
+- GITenberg
+title: "Aus Natur und Geisteswelt\r\nSammlung wissenschaftlich-gemeinverständlicher\
+  \ Darstellungen aus allen Gebieten des Wissens"
+url: http://www.gutenberg.org/ebooks/53614
